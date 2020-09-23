@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#ffffff</color>
+    <color name="darkBlue">#032541</color>
+    <color name="lightGreen">#24D6AA</color>
+    <color name="red">#b71c1c</color>
+    <color name="black">#000000</color>
+    <color name="lightGray">#ECECEC</color>
+    <color name="gray">#757575</color>
+    <color name="shimmer">#dddddd</color>
+    <color name="yellow">#FFD500</color>
+</resources>

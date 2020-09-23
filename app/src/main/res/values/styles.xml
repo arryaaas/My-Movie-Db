@@ -1,0 +1,43 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here.-->
+        <item name="colorPrimary">#24D6AA</item>
+        <item name="colorPrimaryDark">#ffffff</item>
+        <item name="contentcolor">#ffffff</item>
+        <item name="backgroundcolor">#ececec</item>
+        <item name="textcolor">#808080</item>
+        <item name="titlecolor">#000000</item>
+        <item name="toolbarcolor">#ffffff</item>
+        <item name="bottomnaviconcolor">#757575</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="darktheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#212121</item>
+        <item name="colorPrimaryDark">#212121</item>
+        <item name="contentcolor">#424242</item>
+        <item name="backgroundcolor">#303030</item>
+        <item name="textcolor">#ffffff</item>
+        <item name="titlecolor">#ffffff</item>
+        <item name="toolbarcolor">#212121</item>
+        <item name="bottomnaviconcolor">#f5f5f5</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="LightToolbar" parent="@style/ThemeOverlay.AppCompat.ActionBar">
+        <item name="android:textColorPrimary">?attr/titlecolor</item>
+        <item name="android:actionMenuTextColor">?attr/textcolor</item>
+    </style>
+
+    <style name="DarkToolbar" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:textColorPrimary">?attr/titlecolor</item>
+        <item name="android:actionMenuTextColor">?attr/textcolor</item>
+    </style>
+
+    <style name="Toolbar.TitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:fontFamily">@font/poppinsbold</item>
+    </style>
+
+</resources>

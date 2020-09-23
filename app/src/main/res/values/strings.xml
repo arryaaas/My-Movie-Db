@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Movie Db</string>
+    <string name="btn_remove_favorite">Remove From Favorite</string>
+    <string name="btn_add_favorite">Add To Favorite</string>
+    <string name="toast_remove_favorite">Removed From Favorite</string>
+    <string name="toast_add_favorite">Added To Favorite</string>
+    <string name="backdrop">backdrop</string>
+    <string name="poster">poster</string>
+    <string name="logo">logo</string>
+    <string name="moviedb">moviedb</string>
+    <string name="tab_favorite_movie">Movie</string>
+    <string name="tab_favorite_tv">Tv Show</string>
+</resources>
