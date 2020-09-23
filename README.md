@@ -1,6 +1,6 @@
 # My-Movie-Db
 
-My Movie Db is an android movie catalog application
+My Movie Db is a movie catalog application
 
 Some facts about this project:
 
