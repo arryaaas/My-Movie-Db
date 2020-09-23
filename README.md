@@ -1,7 +1,5 @@
 # My-Movie-Db
 
-My Movie Db is a movie catalog application
-
 Some facts about this project:
 
 - Completly written in Kotlin
