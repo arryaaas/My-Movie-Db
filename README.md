@@ -12,4 +12,9 @@ Some facts about this project:
 - Uses [The Movie Database (TMDB) API](https://www.themoviedb.org/documentation/api)
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+
+Mochammad Arya Salsabila - Aryasalsabila789@gmail.com
