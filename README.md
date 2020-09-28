@@ -15,6 +15,7 @@ Some facts about this project:
 
 ## Features
 
+The My Movie Db app lets you:
 - Search for movies & tv shows
 - Displays a list of movies & tv shows
 - Displays a list of favorite movies & tv shows
@@ -24,6 +25,10 @@ Some facts about this project:
 - Daily reminder notifications to return to the app
 - Reminder notification for movies released today
 - Supports dark mode and light mode for app themes
+
+## Requirements
+
+Minimum API : 23
 
 ## License
 
