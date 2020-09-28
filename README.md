@@ -28,7 +28,7 @@ The My Movie Db app lets you:
 
 ## Requirements
 
-Minimum API : 23
+minSdkVersion : 23
 
 ## License
 
