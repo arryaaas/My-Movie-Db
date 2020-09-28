@@ -9,6 +9,10 @@ Some facts about this project:
 - Uses [Retrofit](https://square.github.io/retrofit/) and [OkHttp](https://square.github.io/okhttp/) Library for networking
 - Uses [The Movie Database (TMDB) API](https://www.themoviedb.org/documentation/api)
 
+## Preview App
+
+![](PreviewApp.png)
+
 ## Features
 
 - Search for movies & tv shows
