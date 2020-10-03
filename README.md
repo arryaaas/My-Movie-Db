@@ -11,7 +11,7 @@ Some facts about this project:
 
 ## Preview App
 
-![](PreviewApp.png)
+![](MyMovieDbPreview.png)
 
 ## Features
 
