@@ -3,11 +3,11 @@
 Some facts about this project:
 
 - Completely written in Kotlin
-- Uses MVVM Design Pattern
-- Uses Android ViewModels
-- Uses Room Persistence Library
-- Uses [Retrofit](https://square.github.io/retrofit/) and [OkHttp](https://square.github.io/okhttp/) Library for networking
-- Uses [The Movie Database (TMDB) API](https://www.themoviedb.org/documentation/api)
+- Using MVVM Design Pattern
+- Using Android ViewModels
+- Using Room Persistence Library
+- Using [Retrofit](https://square.github.io/retrofit/) and [OkHttp](https://square.github.io/okhttp/) Library for networking
+- Using [The Movie Database (TMDB) API](https://www.themoviedb.org/documentation/api)
 
 ## Preview App
 
